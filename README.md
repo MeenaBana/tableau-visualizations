@@ -7,7 +7,7 @@ This contains some of Tableau's work example graphs. These tableau graphs are in
 - **Third**
 ![Judges Cases Data](/graphs/3.png "Average hearing time")
 - **Fourth**
-![Cases Stages Data](/graphs/4.png "Per judge hearing comprigon")
+![Cases Stages Data](/graphs/4.png "Per judge hearing comparing")
 - **Fifth**
 ![Cases Types Data](/graphs/5.png "Handling time on case type")
 
